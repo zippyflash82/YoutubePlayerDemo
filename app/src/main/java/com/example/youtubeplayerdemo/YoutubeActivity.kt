@@ -21,7 +21,7 @@ class YoutubeActivity : YouTubeBaseActivity(), YouTubePlayer.OnInitializedListen
         p2: Boolean
     ) {
         if (!p2) {
-            p1?.cueVideo("e6wYqu3t10Y");
+            p1?.cueVideo("sFxhNsckEgA");
         }
     }
 
